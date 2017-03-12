@@ -1,0 +1,23 @@
+{
+  "name": "vue-barrage",
+  "version": "1.0.0",
+  "description": "A barrage for vuejs",
+  "main": "barrage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galensheen/vue-barrage.git"
+  },
+  "keywords": [
+    "vuejs",
+    "barrage"
+  ],
+  "author": "Galen Sheen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galensheen/vue-barrage/issues"
+  },
+  "homepage": "https://github.com/galensheen/vue-barrage#readme"
+}
